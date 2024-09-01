@@ -16,4 +16,15 @@
   <li>Deference <code>aptr</code> and print its value that is print the value of <code>a</code></li>
   <li>End.</li>
 </ol>
+<br>
+<ol>
+  <li>Start.</li>
+  <li>Declare an integer variable <code>a</code> and initialise it to 10.</li>
+  <li>Declare a pointer <code>aptr</code> of type <code>int</code></li>
+  <li>Assign the address of <code>a</code> to <code>aptr</code>.</li>
+  <li>Print the value of <code>aptr</code>, which is the address of <code>a</code>.</li>
+  <li>Increment the pointer by 1. This moves the pointer to the next memory location that would store an <code>int</code>.</li>
+  <li>Print the new value of <code>aptr</code>.</li>
+  <li>End.</li>
+</ol>
 
